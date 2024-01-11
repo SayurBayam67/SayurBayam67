@@ -35,10 +35,10 @@ echo -e $blue"|  \ |___ |___ |__| |    |___"$red"+"
 echo -e $blue"|__/ |___ |    |  | |___ |___"$red"+"
 echo -e $red"+++++++++++++++++++++++++++++"                                                                                                             
 echo -e $white"https://smktelkom-sda.sch.id"
-echo -e $white''
+echo -e $white'https://smktelkom-sda.sch.id'
 if [ -z "$1" ]; then
         echo -e $red"["$lightgreen"+"$red"]"$white"Usage Deface curl."
-        echo -e $red"["$lightgreen"+"$red"]"$white"Use: $red$0 $white<URL>"
+        echo -e $red"["$lightgreen"+"$red"]"$white"Use: $red$0 $white<https://smktelkom-sda.sch.id>"
         exit 0
 fi
 
