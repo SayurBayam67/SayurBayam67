@@ -1,7 +1,7 @@
 # WOWdeface
 
 # Screenshot
-<img src="Screenshot_2018-11-30-00-40-39.png"/>
+<img src="https://github.com/TermuxOfficial/AutoDeface/blob/master/Screenshot_2018-11-30-00-40-39.png"/>
 
 # Installion And Using Auto Deface
 ```
